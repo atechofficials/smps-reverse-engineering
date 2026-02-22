@@ -14,7 +14,7 @@ This project documents commercial SMPS units for educational purposes and to sup
 This repository contains:
 - Reverse-engineered schematic redraws
 
-- High-resolution PCB teardown images
+- PCB teardown images
 
 - Component reference mapping (where applicable)
 
