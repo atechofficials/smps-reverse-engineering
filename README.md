@@ -28,7 +28,7 @@ The purpose of this repository is documentation, study, and repair facilitation.
 
 ## Available SMPS Units
 | Manufacturer  | Model | Output Rating | Type | Folder | Analysis Status |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | NengXing  | NxP365SP-V06A  | 24V, 10A (240W)  | AC-DC SMPS | SMPS_24V_10A | Schematic Complete |
 
 ## Legal Notice & Disclaimer
