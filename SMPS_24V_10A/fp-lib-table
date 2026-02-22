@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "4DB-P108-09")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/4DB-P108-09")(options "")(descr ""))
+  (lib (name "B2B-XH-A_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/B2B-XH-A_LF__SN_")(options "")(descr ""))
+  (lib (name "Pulse_Transformers")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/Pulse_Transformers")(options "")(descr ""))
+)

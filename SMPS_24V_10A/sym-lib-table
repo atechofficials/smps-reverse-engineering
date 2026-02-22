@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "4DB-P108-09")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/4DB-P108-09/4DB-P108-09.kicad_sym")(options "")(descr ""))
+  (lib (name "B2B-XH-A_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/B2B-XH-A_LF__SN_/B2B-XH-A_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "M_3_117_0281")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/Pulse_Transformers/M_3_117_0281.kicad_sym")(options "")(descr ""))
+  (lib (name "Pulse_Transformers")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Footprints/Pulse_Transformers/Pulse_Transformers.kicad_sym")(options "")(descr ""))
+)
